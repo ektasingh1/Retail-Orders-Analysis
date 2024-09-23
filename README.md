@@ -28,16 +28,11 @@ Finally, I created an interactive Power BI dashboard for easy understanding of t
 - The Corporate segment contributes the most to revenue.
 - The East region contributes the most to profit, and the Chairs sub-category contributes the most to profit margin.
 
-# Tools Used:
-- Python
-- SQL
-- Power BI
-
-# Tool Learning:
+# Tool Used:
 - Python and Kaggle API for extracting data
-- Pandas for data claening and transformation
+- Pandas for data cleaning and transformation
 - Advanced SQL queries
-- Power BI DAX
+- Power BI DAX queries
 
 
 
