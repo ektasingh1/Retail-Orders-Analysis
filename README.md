@@ -1,6 +1,6 @@
 
-# Retail Order Sales Insight 
- ## ETL (Python + SQL + Power BI)
+# Extracting Sales Insights using Automated ETL pipeline:-
+ ## (Python + SQL + Power BI)
 
 This dataset contains sales information of retail orders from a store. In this project, I extract sales insights from the dataset, such as total revenue, profit margin, which country contributes the most to revenue, and which contributes the most to profit margin, along with other useful insights.
 
